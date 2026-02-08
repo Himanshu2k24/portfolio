@@ -1,0 +1,14 @@
+:root {
+  --bg: #0a0a0f;
+  --text: #ffffff;
+  --text-secondary: #b8b8c8;
+  --primary: #667eea;
+  --secondary: #764ba2;
+}
+
+.App {
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
