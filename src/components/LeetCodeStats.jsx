@@ -95,7 +95,7 @@ const LeetCodeStats = () => {
 
                     <div className="leetcode-link-section">
                         <a
-                            href={`https://leetcode.com/${username}`}
+                            href={`https://leetcode.com/u/${username}`}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="btn btn-leetcode"
